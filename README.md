@@ -30,3 +30,8 @@ docker stop express-app nginx-proxy
 docker rm express-app nginx-proxy
 docker network rm devops-net
 ```
+### 4. Evidence
+
+![Evidence 1](https://raw.githubusercontent.com/ChristianRukundo/DevOps-Exam-T3/main/evidence/1.png "Exam Evidence 1")
+
+![Evidence 2](https://raw.githubusercontent.com/ChristianRukundo/DevOps-Exam-T3/main/evidence/2.png "Exam Evidence 2")
