@@ -1,0 +1,14 @@
+{
+  "name": "simple-express-app",
+  "version": "1.0.0",
+  "description": "A simple Express.js web server for the DevOps task.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
