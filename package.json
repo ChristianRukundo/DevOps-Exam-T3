@@ -4,7 +4,7 @@
   "description": "A simple Express.js web server for the DevOps task.",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node api.js && node app.js"
   },
   "dependencies": {
     "express": "^4.19.2"
